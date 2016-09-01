@@ -1,7 +1,7 @@
-.version.andrew_s_story /* version checker */
+.version.past_donations /* version checker */
 {
-	color: #00000D;
-	background-color: #C19D6C;
+	color: #00001F;
+	background-color: #DDC47C;
 }
 
 .html
@@ -36,19 +36,19 @@
 
 #u353,#u353-bw
 {
-	z-index: 46;
+	z-index: 27;
 	height: 85px;
 }
 
 #u386-6,#u386-6-bw
 {
-	z-index: 84;
+	z-index: 65;
 	min-height: 85px;
 }
 
 #u475
 {
-	z-index: 90;
+	z-index: 71;
 	width: 50px;
 	min-height: 50px;
 	margin-right: -10000px;
@@ -58,7 +58,7 @@
 
 #u480
 {
-	z-index: 91;
+	z-index: 72;
 	width: 50px;
 	min-height: 50px;
 	margin-right: -10000px;
@@ -68,7 +68,7 @@
 
 #u470
 {
-	z-index: 45;
+	z-index: 26;
 	min-height: 42px;
 	padding-bottom: 8px;
 }
@@ -83,7 +83,7 @@
 
 #menuu354
 {
-	z-index: 47;
+	z-index: 28;
 	width: 907px;
 	margin-right: -10000px;
 	margin-top: 7px;
@@ -447,132 +447,15 @@
 
 #u470-bw
 {
-	z-index: 45;
+	z-index: 26;
 	min-height: 42px;
-}
-
-#u703
-{
-	z-index: 26;
-	min-height: 697px;
-	background-color: #FFFFFF;
-}
-
-#u703_align_to_page
-{
-	margin-left: auto;
-	margin-right: auto;
-	width: 960px;
-	position: relative;
-	left: -100px;
-	padding-top: 31px;
-	padding-bottom: 57px;
-}
-
-#pu705
-{
-	width: 0.01px;
-	left: 148px;
-	position: relative;
-}
-
-#u705
-{
-	z-index: 27;
-	width: 224px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u717-7
-{
-	z-index: 31;
-	width: 587px;
-	min-height: 266px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 234px;
-}
-
-#u717-2
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u717-5
-{
-	font-size: 17px;
-	line-height: 20px;
-}
-
-#u717-4
-{
-	color: #000000;
-}
-
-#pu718-7
-{
-	width: 0.01px;
-	left: 148px;
-	margin-top: 52px;
-	position: relative;
-}
-
-#u718-7
-{
-	z-index: 38;
-	width: 581px;
-	min-height: 291px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u717,#u718-2
-{
-	font-size: 20px;
-	color: #2966E2;
-	font-weight: bold;
-	line-height: 24px;
-}
-
-#u718-3
-{
-	font-size: 14px;
-	color: #2966E2;
-	font-weight: bold;
-}
-
-#u718-5
-{
-	font-size: 17px;
-	line-height: 20px;
-	color: #000000;
-}
-
-#u711
-{
-	z-index: 29;
-	width: 229px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1px;
-	left: 592px;
-}
-
-#u703-bw
-{
-	z-index: 26;
-	min-height: 697px;
 }
 
 #pu682
 {
 	width: 0.01px;
 	margin-left: -311px;
+	margin-top: 157px;
 }
 
 #u682

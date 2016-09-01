@@ -1,24 +1,51 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="andrewslegacyforever.com" resolutions="1x" timestamp="1472694511013">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="andrewslegacyforever.com" resolutions="1x" timestamp="1472770702813">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="andrew-s-story.css" crc="3964970448" ref="tablet>andrew-s-story"/>
+      <file name="events.css" crc="3964970448" ref="tablet>events"/>
+      <file name="contact-us.css" crc="3973785877" ref="tablet>contact-us"/>
+      <file name="index.css" crc="3964970448" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="159292085" seo="true" mt="1472751883848" redirect="false"/>
+    <file name="andrew-s-story.html" crc="4088004930" seo="true" mt="1472770324096" redirect="false"/>
+    <file name="events.html" crc="352740155" seo="true" mt="1472770341930" redirect="false"/>
+    <file name="contact-us.html" crc="4187546934" seo="true" mt="1472770357950" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_mainmaster.css" crc="4141215882" ref="phone>index:phone>contact-us:phone>andrew-s-story:phone>events"/>
+      <file name="index.css" crc="400422400" ref="phone>index"/>
+      <file name="contact-us.css" crc="240539424" ref="phone>contact-us"/>
+      <file name="andrew-s-story.css" crc="4290047228" ref="phone>andrew-s-story"/>
+      <file name="events.css" crc="346898426" ref="phone>events"/>
+    </folder>
+    <file name="index.html" crc="240811799" seo="true" mt="1472770357945" redirect="true"/>
+    <file name="andrew-s-story.html" crc="134473375" seo="true" mt="1472770357945" redirect="true"/>
+    <file name="events.html" crc="4089455117" seo="true" mt="1472770357945" redirect="true"/>
+    <file name="contact-us.html" crc="181610409" seo="true" mt="1472770357952" redirect="true"/>
+  </folder>
   <folder name="assets">
     <file name="andrews-legacy-logo.pdf" crc="379815674" seo="true" mt="1472608827000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4212681693"/>
-    <file name="index.css" crc="4064602236" ref="index"/>
-    <file name="master_mainmaster.css" crc="4018557521" ref="index:contact-us:andrew-s-story:events:store"/>
-    <file name="contact-us.css" crc="269316446" ref="contact-us"/>
-    <file name="andrew-s-story.css" crc="285318651" ref="andrew-s-story"/>
-    <file name="events.css" crc="280976916" ref="events"/>
-    <file name="store.css" crc="215489409" ref="store"/>
+    <file name="index.css" crc="3821450988" ref="index"/>
+    <file name="master_mainmaster.css" crc="3765052248" ref="index:contact-us:andrew-s-story:events:store:past-donations:learncpr"/>
+    <file name="contact-us.css" crc="307539439" ref="contact-us"/>
+    <file name="andrew-s-story.css" crc="230792556" ref="andrew-s-story"/>
+    <file name="events.css" crc="3795333533" ref="events"/>
+    <file name="store.css" crc="351415503" ref="store"/>
+    <file name="past-donations.css" crc="534627452" ref="past-donations"/>
+    <file name="learncpr.css" crc="4200591394" ref="learncpr"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:andrew-s-story:contact-us:store:events"/>
-    <file name="museutils.js" crc="183364071" ref="index:andrew-s-story:contact-us:store:events"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index:andrew-s-story:contact-us:store:events"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:andrew-s-story:contact-us:store:events"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:andrew-s-story:contact-us:store:events"/>
-    <file name="pie.js" crc="3827607177" ref="index:contact-us"/>
-    <file name="webpro.js" crc="3803554875" ref="index:contact-us"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:andrew-s-story:contact-us:store:events:phone>index:phone>andrew-s-story:phone>events:phone>contact-us:tablet>index:tablet>andrew-s-story:tablet>events:tablet>contact-us:past-donations:learncpr"/>
+    <file name="museutils.js" crc="183364071" ref="index:andrew-s-story:contact-us:store:events:phone>index:phone>andrew-s-story:phone>events:phone>contact-us:tablet>index:tablet>andrew-s-story:tablet>events:tablet>contact-us:past-donations:learncpr"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:andrew-s-story:contact-us:store:events:phone>index:phone>andrew-s-story:phone>events:phone>contact-us:past-donations:learncpr"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:andrew-s-story:contact-us:store:events:phone>index:phone>andrew-s-story:phone>events:phone>contact-us:tablet>index:tablet>andrew-s-story:tablet>events:tablet>contact-us:past-donations:learncpr"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:andrew-s-story:contact-us:store:events:phone>index:phone>andrew-s-story:phone>events:phone>contact-us:tablet>index:tablet>andrew-s-story:tablet>events:tablet>contact-us:past-donations:learncpr"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index:contact-us:phone>index:phone>andrew-s-story:phone>events:phone>contact-us"/>
     <file name="musewpslideshow.js" crc="242596657" ref="index"/>
     <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
     <file name="touchswipe.js" crc="4038331989" ref="index"/>
@@ -27,6 +54,9 @@
     <file name="form_process.php" crc="24249335" ref="index:contact-us"/>
     <file name="form-u607.php" crc="281811034" ref="index"/>
     <file name="form-u758.php" crc="516646383" ref="contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="phone>index:phone>andrew-s-story:phone>events:phone>contact-us"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>andrew-s-story:tablet>events:tablet>contact-us:index:andrew-s-story:contact-us:events"/>
   </folder>
   <folder name="images">
     <file name="rainbow backdrop legacy.jpg" crc="3780788290" seo="true" ref="index"/>
@@ -36,18 +66,25 @@
     <file name="u622-17-r.png" crc="3844863548" ref="index"/>
     <file name="u622-17-m.png" crc="446077895" ref="index"/>
     <file name="u622-17-fs.png" crc="51175883" ref="index"/>
-    <file name="football.jpg" crc="319362014" seo="true" ref="index:andrew-s-story:contact-us:store:events"/>
+    <file name="football.jpg" crc="319362014" seo="true" ref="index:andrew-s-story:contact-us:store:events:past-donations:learncpr"/>
     <file name="2014-09-17 194402-crop-u705.jpg" crc="528543110" ref="andrew-s-story"/>
     <file name="soccer-crop-u711.jpg" crc="228511274" ref="andrew-s-story"/>
-    <file name="u759-21.png" crc="311828129" ref="contact-us"/>
-    <file name="u759-21-r.png" crc="3844863548" ref="contact-us"/>
-    <file name="u759-21-m.png" crc="446077895" ref="contact-us"/>
-    <file name="u759-21-fs.png" crc="51175883" ref="contact-us"/>
     <file name="11136127_915120381844614_614877385472524673_o.jpg" crc="299370310" seo="true" ref="events"/>
+    <file name="visualeditor_-_icon_-_menusvg.png" crc="383144915" ref="phone>index"/>
+    <file name="multiplication-symbol-icon-0910125830.png" crc="3803265032" ref="phone>index"/>
+    <file name="11136127_915120381844614_614877385472524673_o380x207.jpg" crc="3816705973" seo="true" ref="phone>index"/>
+    <file name="oie_transparent (3)-u1218.png" crc="3996579944" ref="index"/>
+    <file name="u759-17.png" crc="311828129" ref="contact-us"/>
+    <file name="u759-17-r.png" crc="3844863548" ref="contact-us"/>
+    <file name="u759-17-m.png" crc="446077895" ref="contact-us"/>
+    <file name="u759-17-fs.png" crc="51175883" ref="contact-us"/>
+    <file name="handonlycpr_webgraphic_f15_en.jpg" crc="430282871" seo="true" ref="learncpr"/>
   </folder>
-  <file name="index.html" crc="67074065" seo="true" mt="1472693208014" redirect="true"/>
-  <file name="andrew-s-story.html" crc="494986360" seo="true" mt="1472692914514" redirect="true"/>
-  <file name="contact-us.html" crc="442989713" seo="true" mt="1472694502430" redirect="true"/>
-  <file name="store.html" crc="4083706520" seo="true" mt="1472694384120" redirect="true"/>
-  <file name="events.html" crc="276171076" seo="true" mt="1472693538074" redirect="true"/>
+  <file name="index.html" crc="3842589839" seo="true" mt="1472770215000" redirect="true"/>
+  <file name="andrew-s-story.html" crc="229960385" seo="true" mt="1472770324096" redirect="true"/>
+  <file name="contact-us.html" crc="3809454076" seo="true" mt="1472770357949" redirect="true"/>
+  <file name="store.html" crc="3980799972" seo="true" mt="1472770214985" redirect="true"/>
+  <file name="events.html" crc="4086181927" seo="true" mt="1472770341930" redirect="true"/>
+  <file name="past-donations.html" crc="399189808" seo="true" mt="1472770214985" redirect="true"/>
+  <file name="learncpr.html" crc="3833248909" seo="true" mt="1472770214985" redirect="true"/>
 </manifest>

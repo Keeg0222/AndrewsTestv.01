@@ -1,0 +1,223 @@
+#accordionu1166
+{
+	border-color: #7F7F7F;
+	background-color: transparent;
+}
+
+#u1168-4
+{
+	border-color: #FFFFFF;
+	color: #FFFFFF;
+	font-size: 20px;
+	text-align: right;
+	line-height: 45px;
+	font-family: sansita-one, sans-serif;
+	font-weight: 400;
+	background: #2966E2 url("../../images/visualeditor_-_icon_-_menusvg.png") no-repeat right center;
+	background-size: contain;
+}
+
+#u1168-4:active
+{
+	border-style: none;
+	background: #2966E2 url("../../images/visualeditor_-_icon_-_menusvg.png") no-repeat right center;
+	background-size: contain;
+}
+
+#u1168-4.AccordionPanelTabOpen
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: 1px 1px 0px;
+	background: #2966E2 url("../../images/multiplication-symbol-icon-0910125830.png") no-repeat right center;
+	background-size: contain;
+}
+
+#u1168-4.AccordionPanelTabOpen p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+	padding-left: 0px;
+	padding-right: 83px;
+	font-size: 20px;
+	text-align: right;
+	font-family: sansita-one, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u1168-2
+{
+	padding-right: 83px;
+}
+
+#u1169
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #2966E2;
+}
+
+#menuu1170
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u1172
+{
+	background-color: #2966E2;
+	position: relative;
+}
+
+#u1172:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1175-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1304
+{
+	background-color: #2966E2;
+	position: relative;
+}
+
+#u1304:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1306-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1322
+{
+	background-color: #2966E2;
+	position: relative;
+}
+
+#u1322:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1323-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1167,#u1171,#u1303,#u1319,#u1335
+{
+	background-color: transparent;
+}
+
+#u1338
+{
+	background-color: #2966E2;
+	position: relative;
+}
+
+#u1338:active
+{
+	background-color: #6B6B6B;
+}
+
+#u1340-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+.MenuItem,.AccordionPanelTab /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u1213
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1216
+{
+	background-color: #2966E2;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u1217-7
+{
+	background-color: transparent;
+	font-size: 25px;
+	line-height: 30px;
+	color: #FFFFFF;
+}
+
+#u1217-2
+{
+	font-weight: bold;
+}
+
+#u1217-4
+{
+	font-size: 25px;
+	color: #FFFFFF;
+}
+
+#u1172.MuseMenuActive,#u1304.MuseMenuActive,#u1322.MuseMenuActive,#u1338.MuseMenuActive,#u1211
+{
+	background-color: #2966E2;
+}
+
+#u1212-12
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
+}
+
+#u1212-5,#u1212-7,#u1212-10
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1212-4,#u1212-6,#u1212-9
+{
+	font-size: 13px;
+	line-height: 16px;
+}
+

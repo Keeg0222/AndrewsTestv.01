@@ -8,49 +8,77 @@
   </url>
   <url>
     <loc>http://andrewslegacyforever.com/images/rainbow%20backdrop%20legacy.jpg</loc>
-    <lastmod>2016-08-31</lastmod>
+    <lastmod>2016-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://andrewslegacyforever.com/images/football.jpg</loc>
-    <lastmod>2016-08-31</lastmod>
+    <lastmod>2016-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://andrewslegacyforever.com/images/11136127_915120381844614_614877385472524673_o.jpg</loc>
-    <lastmod>2016-08-31</lastmod>
+    <lastmod>2016-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://andrewslegacyforever.com/images/11136127_915120381844614_614877385472524673_o380x207.jpg</loc>
+    <lastmod>2016-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://andrewslegacyforever.com/images/handonlycpr_webgraphic_f15_en.jpg</loc>
+    <lastmod>2016-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://andrewslegacyforever.com/index.html</loc>
-    <lastmod>2016-08-31</lastmod>
+    <lastmod>2016-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://andrewslegacyforever.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://andrewslegacyforever.com/andrew-s-story.html</loc>
-    <lastmod>2016-08-31</lastmod>
+    <lastmod>2016-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://andrewslegacyforever.com/phone/andrew-s-story.html"/>
   </url>
   <url>
     <loc>http://andrewslegacyforever.com/contact-us.html</loc>
-    <lastmod>2016-08-31</lastmod>
+    <lastmod>2016-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://andrewslegacyforever.com/phone/contact-us.html"/>
   </url>
   <url>
     <loc>http://andrewslegacyforever.com/store.html</loc>
-    <lastmod>2016-08-31</lastmod>
+    <lastmod>2016-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://andrewslegacyforever.com/events.html</loc>
-    <lastmod>2016-08-31</lastmod>
+    <lastmod>2016-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://andrewslegacyforever.com/phone/events.html"/>
+  </url>
+  <url>
+    <loc>http://andrewslegacyforever.com/past-donations.html</loc>
+    <lastmod>2016-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://andrewslegacyforever.com/learncpr.html</loc>
+    <lastmod>2016-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

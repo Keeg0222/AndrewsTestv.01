@@ -6,10 +6,10 @@
 #u386-6
 {
 	background-color: transparent;
-	line-height: 82px;
-	text-align: center;
-	font-size: 48px;
 	color: #2966E2;
+	font-size: 48px;
+	text-align: center;
+	line-height: 82px;
 }
 
 #u386-2
@@ -107,25 +107,25 @@
 	position: relative;
 }
 
-#u398
+#u1061
 {
 	background-color: #2966E2;
 	position: relative;
 }
 
-#u398:hover
+#u1061:hover
 {
 	border-color: #000000;
 	background-color: #0071BC;
 }
 
-#u398:active
+#u1061:active
 {
 	border-color: #000000;
 	background-color: #2966E2;
 }
 
-#u401-4
+#u1062-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -136,25 +136,54 @@
 	position: relative;
 }
 
-#u462
+#u1068
 {
 	background-color: #2966E2;
 	position: relative;
 }
 
-#u462:hover
+#u1068:hover
 {
 	border-color: #000000;
 	background-color: #0071BC;
 }
 
-#u462:active
+#u1068:active
 {
 	border-color: #000000;
 	background-color: #2966E2;
 }
 
-#u465-4
+#u1070-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1076
+{
+	background-color: #2966E2;
+	position: relative;
+}
+
+#u1076:hover
+{
+	border-color: #000000;
+	background-color: #0071BC;
+}
+
+#u1076:active
+{
+	border-color: #000000;
+	background-color: #2966E2;
+}
+
+#u1078-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -183,7 +212,7 @@
 	background-color: #2966E2;
 }
 
-#u358.MuseMenuActive,#u432.MuseMenuActive,#u398.MuseMenuActive,#u462.MuseMenuActive,#u447.MuseMenuActive
+#u358.MuseMenuActive,#u432.MuseMenuActive,#u1061.MuseMenuActive,#u1068.MuseMenuActive,#u1076.MuseMenuActive,#u447.MuseMenuActive
 {
 	border-style: none;
 	border-color: transparent;
@@ -206,7 +235,7 @@
 	cursor: pointer;
 }
 
-#u355,#u431,#u395,#u461,#u446,#u682
+#u355,#u431,#u1058,#u1067,#u1075,#u446,#u682
 {
 	background-color: transparent;
 	position: relative;
@@ -225,10 +254,10 @@
 #u473-12
 {
 	background-color: transparent;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
 	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
 	font-weight: bold;
 }
 
@@ -254,10 +283,10 @@
 #u689-8
 {
 	background-color: transparent;
-	line-height: 36px;
-	text-align: center;
-	font-size: 30px;
 	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+	line-height: 36px;
 }
 
 #u689-3
