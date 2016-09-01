@@ -6,10 +6,10 @@
 #u386-6
 {
 	background-color: transparent;
-	color: #2966E2;
-	font-size: 48px;
-	text-align: center;
 	line-height: 82px;
+	text-align: center;
+	font-size: 48px;
+	color: #2966E2;
 }
 
 #u386-2
@@ -26,6 +26,13 @@
 	font-size: 45px;
 	line-height: 54px;
 	position: relative;
+}
+
+#u470
+{
+	-pie-box-shadow: 6px 6px 8px #A3A3A3;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.36);
+	background-color: #2966E2;
 }
 
 #u470_align_to_page
@@ -210,7 +217,7 @@
 	overflow: hidden;
 }
 
-#u470,#u468
+#u468
 {
 	background-color: #2966E2;
 }
@@ -219,8 +226,8 @@
 {
 	background-color: transparent;
 	line-height: 22px;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
 	color: #FFFFFF;
 	font-weight: bold;
 }
@@ -247,10 +254,10 @@
 #u689-8
 {
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 30px;
-	text-align: center;
 	line-height: 36px;
+	text-align: center;
+	font-size: 30px;
+	color: #FFFFFF;
 }
 
 #u689-3

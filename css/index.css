@@ -1,14 +1,14 @@
 .version.index /* version checker */
 {
-	color: #000000;
-	background-color: #3EB724;
+	color: #0000F2;
+	background-color: #44E87C;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 921.8246839040237px;
+	min-height: 921.8246839040235px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -510,8 +510,8 @@
 	width: 397px;
 	min-height: 150px;
 	background-color: transparent;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
 	line-height: 22px;
 	position: relative;
 }
@@ -572,10 +572,10 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
+	text-align: center;
+	font-size: 14px;
 	letter-spacing: 1px;
 	color: #FFFFFF;
-	font-size: 14px;
-	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -614,8 +614,8 @@
 	min-height: 150px;
 	background-color: transparent;
 	line-height: 22px;
-	font-size: 18px;
 	text-align: center;
+	font-size: 18px;
 	font-weight: bold;
 	position: relative;
 }
@@ -665,10 +665,10 @@
 	width: 119px;
 	min-height: 23px;
 	background-color: transparent;
+	text-align: center;
+	font-size: 14px;
 	letter-spacing: 1px;
 	color: #FFFFFF;
-	font-size: 14px;
-	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -821,8 +821,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	color: #FF0000;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -850,8 +850,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 12px;
+	font-size: 12px;
 	color: #00FF00;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
@@ -936,8 +936,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	color: #6B6B6B;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -1092,8 +1092,8 @@
 	z-index: 96;
 	min-height: 196px;
 	background-color: transparent;
-	font-size: 30px;
 	text-align: center;
+	font-size: 30px;
 	line-height: 36px;
 }
 
@@ -1119,7 +1119,7 @@
 {
 	width: 0.01px;
 	margin-left: -311px;
-	margin-top: -13px;
+	margin-top: -1px;
 }
 
 #u682

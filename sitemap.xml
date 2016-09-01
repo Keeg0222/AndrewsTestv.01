@@ -19,13 +19,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andrewslegacyforever.com/index.html</loc>
+    <loc>http://andrewslegacyforever.com/images/11136127_915120381844614_614877385472524673_o.jpg</loc>
     <lastmod>2016-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andrewslegacyforever.com/about.html</loc>
+    <loc>http://andrewslegacyforever.com/index.html</loc>
     <lastmod>2016-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -43,7 +43,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andrewslegacyforever.com/upcoming-events.html</loc>
+    <loc>http://andrewslegacyforever.com/store.html</loc>
+    <lastmod>2016-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://andrewslegacyforever.com/events.html</loc>
     <lastmod>2016-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
