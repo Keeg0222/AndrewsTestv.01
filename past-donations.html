@@ -10,9 +10,9 @@
   <meta name="generator" content="2015.0.0.309"/>
   <title>Past Donations</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?4212681693"/>
-  <link rel="stylesheet" type="text/css" href="css/master_mainmaster.css?3765052248"/>
-  <link rel="stylesheet" type="text/css" href="css/past-donations.css?534627452" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?217870893"/>
+  <link rel="stylesheet" type="text/css" href="css/master_mainmaster.css?4010580674"/>
+  <link rel="stylesheet" type="text/css" href="css/past-donations.css?18375602" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -23,6 +23,10 @@
   <![endif]-->
     <!--custom head HTML-->
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+  <!--HTML Widget code-->
+  
+	<link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900'>
+	
  </head>
  <body>
 
@@ -68,6 +72,24 @@
         </div>
        </nav>
       </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="ptop"><!-- group -->
+     <a class="anchor_item grpelem" id="top"></a>
+     <div class="browser_width grpelem" id="u1370-bw">
+      <div id="u1370"><!-- group -->
+       <div class="clearfix" id="u1370_align_to_page">
+        <div class="grpelem" id="u1371"><!-- custom html -->
+         
+ <div class="countdownwrap"></div>
+ 	
+</div>
+       </div>
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="u1373-5"><!-- content -->
+      <p>&nbsp;</p>
+      <p id="u1373-3">THE DONATIONS PAGE WILL BE RELEASED IN...</p>
      </div>
     </div>
     <div class="verticalspacer"></div>
@@ -127,5 +149,11 @@ Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
 </script>
+  
+  <!--HTML Widget code-->
+  
+        <script>
+var ringer={countdown_to:"09/10/2016",rings:{DAYS:{s:864e5,max:365},HOURS:{s:36e5,max:24},MINUTES:{s:6e4,max:60},SECONDS:{s:1e3,max:60},MICROSEC:{s:10,max:100}},r_count:5,r_spacing:10,r_size:100,r_thickness:5,update_interval:11,init:function(){$r=ringer,$r.cvs=document.createElement("canvas"),$r.size={w:($r.r_size+$r.r_thickness)*$r.r_count+$r.r_spacing*($r.r_count-1),h:$r.r_size+$r.r_thickness},$r.cvs.setAttribute("width",$r.size.w),$r.cvs.setAttribute("height",$r.size.h),$r.ctx=$r.cvs.getContext("2d"),$(".countdownwrap").append($r.cvs),$r.cvs=$($r.cvs),$r.ctx.textAlign="center",$r.actual_size=$r.r_size+$r.r_thickness,$r.countdown_to_time=new Date($r.countdown_to).getTime(),$r.cvs.css({width:$r.size.w+"px",height:$r.size.h+"px"}),$r.go()},ctx:null,go:function(){var r=0;$r.time=(new Date).getTime()-$r.countdown_to_time;for(var t in $r.rings)$r.unit(r++,t,$r.rings[t]);setTimeout($r.go,$r.update_interval)},unit:function(r,t,e){var i,s,$,c=e.s;$=parseFloat($r.time/c),$r.time-=Math.round(parseInt($))*c,$=Math.abs($),i=.5*$r.r_size+.5*$r.r_thickness,i+=+(r*($r.r_size+$r.r_spacing+$r.r_thickness)),s=.5*$r.r_size,s+=.5*$r.r_thickness;var n=360-$/e.max*360,a=n*(Math.PI/180);$r.ctx.save(),$r.ctx.translate(i,s),$r.ctx.clearRect($r.actual_size*-.5,$r.actual_size*-.5,$r.actual_size,$r.actual_size),$r.ctx.strokeStyle="#DBDBDB",$r.ctx.beginPath(),$r.ctx.arc(0,0,$r.r_size/2,0,2*Math.PI,2),$r.ctx.lineWidth=$r.r_thickness,$r.ctx.stroke(),$r.ctx.strokeStyle="#2966E2",$r.ctx.beginPath(),$r.ctx.arc(0,0,$r.r_size/2,0,a,1),$r.ctx.lineWidth=$r.r_thickness,$r.ctx.stroke(),$r.ctx.fillStyle="#000000",$r.ctx.font="12px Helvetica",$r.ctx.fillText(t,0,23),$r.ctx.fillText(t,0,23),$r.ctx.font="bold 40px Helvetica",$r.ctx.fillText(Math.floor($),0,10),$r.ctx.restore()}};ringer.init();        </script>
+		
    </body>
 </html>

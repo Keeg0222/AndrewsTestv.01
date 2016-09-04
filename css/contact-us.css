@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #000012;
-	background-color: #54ADEF;
+	color: #0000FD;
+	background-color: #33A26A;
 }
 
 #page
@@ -56,13 +56,6 @@
 	left: 160px;
 }
 
-#u470
-{
-	z-index: 109;
-	min-height: 42px;
-	padding-bottom: 8px;
-}
-
 #u470_align_to_page
 {
 	margin-left: auto;
@@ -75,22 +68,23 @@
 {
 	z-index: 111;
 	width: 907px;
+	margin-bottom: -1px;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 1px;
 	left: 127px;
 }
 
 #u355
 {
 	width: 149px;
-	min-height: 35px;
+	min-height: 50px;
 	margin-right: -10000px;
 }
 
 #u358
 {
 	width: 149px;
-	padding-bottom: 18px;
+	padding-bottom: 33px;
 }
 
 #u358:hover
@@ -112,7 +106,7 @@
 	width: 149px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 9px;
+	top: 16px;
 }
 
 #u358:hover #u360-4
@@ -136,7 +130,7 @@
 #u431
 {
 	width: 149px;
-	min-height: 35px;
+	min-height: 50px;
 	margin-right: -10000px;
 	left: 151px;
 }
@@ -144,7 +138,7 @@
 #u432
 {
 	width: 149px;
-	padding-bottom: 18px;
+	padding-bottom: 33px;
 }
 
 #u358.MuseMenuActive,#u432:hover
@@ -166,7 +160,7 @@
 	width: 149px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 9px;
+	top: 16px;
 }
 
 #u358.MuseMenuActive #u360-4,#u432:hover #u435-4
@@ -190,7 +184,7 @@
 #u1058
 {
 	width: 149px;
-	min-height: 35px;
+	min-height: 50px;
 	margin-right: -10000px;
 	left: 302px;
 }
@@ -198,7 +192,7 @@
 #u1061
 {
 	width: 149px;
-	padding-bottom: 18px;
+	padding-bottom: 33px;
 }
 
 #u432.MuseMenuActive,#u1061:hover
@@ -227,7 +221,7 @@
 	width: 149px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 9px;
+	top: 16px;
 }
 
 #u432.MuseMenuActive #u435-4,#u1061:hover #u1062-4
@@ -260,7 +254,7 @@
 #u1067
 {
 	width: 150px;
-	min-height: 35px;
+	min-height: 50px;
 	margin-right: -10000px;
 	left: 453px;
 }
@@ -268,7 +262,7 @@
 #u1068
 {
 	width: 150px;
-	padding-bottom: 18px;
+	padding-bottom: 33px;
 }
 
 #u1068:hover
@@ -290,7 +284,7 @@
 	width: 150px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 9px;
+	top: 16px;
 }
 
 #u1068:hover #u1070-4
@@ -314,7 +308,7 @@
 #u1075
 {
 	width: 150px;
-	min-height: 35px;
+	min-height: 50px;
 	margin-right: -10000px;
 	left: 605px;
 }
@@ -322,7 +316,7 @@
 #u1076
 {
 	width: 150px;
-	padding-bottom: 18px;
+	padding-bottom: 33px;
 }
 
 #u1068.MuseMenuActive,#u1076:hover
@@ -344,7 +338,7 @@
 	width: 150px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 9px;
+	top: 16px;
 }
 
 #u1068.MuseMenuActive #u1070-4,#u1076:hover #u1078-4
@@ -368,7 +362,7 @@
 #u446
 {
 	width: 150px;
-	min-height: 35px;
+	min-height: 50px;
 	margin-right: -10000px;
 	left: 757px;
 }
@@ -376,7 +370,7 @@
 #u447
 {
 	width: 150px;
-	padding-bottom: 18px;
+	padding-bottom: 33px;
 }
 
 #u1076.MuseMenuActive,#u447:hover
@@ -405,7 +399,7 @@
 	width: 150px;
 	min-height: 17px;
 	margin-right: -10000px;
-	top: 9px;
+	top: 16px;
 }
 
 #u1076.MuseMenuActive #u1078-4,#u447:hover #u450-4
@@ -435,10 +429,10 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u470-bw
+#u470,#u470-bw
 {
 	z-index: 109;
-	min-height: 42px;
+	min-height: 50px;
 }
 
 #pu353,#pu755
@@ -554,8 +548,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #6B6B6B;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -659,8 +653,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #6B6B6B;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -753,8 +747,8 @@
 #widgetu758.frm-sub-st #u769-4 p
 {
 	color: #999999;
-	line-height: 1;
 	font-size: 14px;
+	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -770,8 +764,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #FF0000;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -782,8 +776,8 @@
 #widgetu758.frm-subm-err-st #u764-4 p
 {
 	color: #D7244C;
-	line-height: 1;
 	font-size: 14px;
+	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 }
@@ -799,8 +793,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #00FF00;
-	font-size: 12px;
 	line-height: 12px;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -885,8 +879,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #6B6B6B;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1022,8 +1016,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #6B6B6B;
-	text-align: left;
 	line-height: 14px;
+	text-align: left;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1156,26 +1150,26 @@
 #pu682
 {
 	width: 0.01px;
-	margin-left: -311px;
+	margin-left: -212px;
 }
 
 #u682
 {
 	z-index: 2;
-	width: 1984px;
+	width: 1362px;
 	margin-right: -10000px;
 }
 
 #u682_clip
 {
-	width: 1984px;
+	width: 1362px;
 	height: 630px;
 }
 
 #u682_img
 {
-	margin-left: 96px;
-	margin-right: 513px;
+	margin-left: -3px;
+	margin-right: -10px;
 	margin-bottom: -286px;
 }
 

@@ -1,7 +1,7 @@
 .version.events /* version checker */
 {
-	color: #000014;
-	background-color: #AD3FFA;
+	color: #0000F5;
+	background-color: #0B0E9D;
 }
 
 @-ms-viewport
@@ -223,42 +223,103 @@
 	z-index: 2;
 }
 
-#u1313-14
+#pamphletu1487
 {
 	z-index: 57;
-	min-height: 188px;
+	width: 0.01px;
+	height: 162px;
+	position: relative;
+}
+
+#u1492
+{
+	z-index: 58;
+	width: 61px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 116px;
+}
+
+#u1493
+{
+	position: absolute;
+	width: 59px;
+	height: 44px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background-color: #DEDEDE;
+}
+
+#u1493:hover
+{
+	border-color: #999999;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1493.PamphletThumbSelected
+{
+	border-color: #999999;
+	background-color: #DEDEDE;
+	width: 59px;
+	height: 44px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1496
+{
+	position: absolute;
+	width: 381px;
 	background-color: transparent;
-	font-size: 30px;
-	line-height: 36px;
-	font-weight: bold;
 }
 
-#u1313,#u1313-3
+#u1496popup
 {
-	font-size: 30px;
+	z-index: 60;
 }
 
-#u1313-7,#u1313-9,#u1313-11
+#u1498
 {
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+	z-index: 61;
+	width: 379px;
+	height: 86px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	margin-right: -10000px;
+	position: relative;
 }
 
-#u1313-6,#u1313-8,#u1313-10
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
-	font-size: 15px;
-	line-height: 18px;
+	cursor: pointer;
 }
 
-#u1313-14-bw
+#u1502-8
 {
-	z-index: 57;
-	min-height: 188px;
+	z-index: 62;
+	min-height: 87px;
+	background-color: transparent;
+}
+
+#u1502-8-bw
+{
+	z-index: 62;
+	min-height: 87px;
+	margin-top: -162px;
+	margin-bottom: -87px;
 }
 
 #pu1213
 {
 	width: 0.01px;
-	margin-top: 2px;
+	margin-top: 21px;
 }
 
 #u1213

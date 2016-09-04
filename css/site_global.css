@@ -117,12 +117,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-.ts-Default-Link-Style--copy a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .ts-Default-Link-Style--copy a:link
 {
 	color: #000000;
@@ -131,7 +125,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .ts-Default-Link-Style--copy a:visited
 {
-	color: #FFFFFF;
+	color: #000000;
 	text-decoration: underline;
 }
 
@@ -143,7 +137,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .ts-Default-Link-Style--copy a:active
 {
-	color: #FFFFFF;
+	color: #000000;
 	text-decoration: underline;
 }
 

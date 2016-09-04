@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "jquery.watch.js", "webpro.js", "musewpdisclosure.js", "events.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "jquery.watch.js", "webpro.js", "musewpdisclosure.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "events.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -12,9 +12,9 @@
   <meta name="viewport" content="width=380"/>
   <link rel="canonical" href="http://andrewslegacyforever.com/events.html"/>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="../css/site_global.css?4212681693"/>
-  <link rel="stylesheet" type="text/css" href="css/master_mainmaster.css?4141215882"/>
-  <link rel="stylesheet" type="text/css" href="css/events.css?346898426" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="../css/site_global.css?217870893"/>
+  <link rel="stylesheet" type="text/css" href="css/master_mainmaster.css?190501849"/>
+  <link rel="stylesheet" type="text/css" href="css/events.css?4111142557" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -39,15 +39,23 @@ var __adobewebfontsappname__ = "muse";
       <li class="AccordionPanel clearfix colelem100" id="u1167"><!-- vertical box --><div class="AccordionPanelTab clearfix colelem100" id="u1168-4"><!-- content --><p id="u1168-2">Andrew's Legacy</p></div><div class="AccordionPanelContent disn clearfix colelem100" id="u1169"><!-- group --><div class="browser_width grpelem" id="menuu1170-bw"><nav class="MenuBar clearfix" id="menuu1170"><!-- vertical box --><div class="MenuItemContainer clearfix colelem100" id="u1171"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix" id="u1172" href="index.html"><!-- horizontal box --><div class="MenuItemLabel clearfix" id="u1175-4"><!-- content --><p>Home</p></div></a></div><div class="MenuItemContainer clearfix colelem100" id="u1303"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix" id="u1304" href="andrew-s-story.html"><!-- horizontal box --><div class="MenuItemLabel clearfix" id="u1306-4"><!-- content --><p>Andrew's Story</p></div></a></div><div class="MenuItemContainer clearfix colelem100" id="u1319"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix" id="u1322" href="events.html"><!-- horizontal box --><div class="MenuItemLabel clearfix" id="u1323-4"><!-- content --><p>Events</p></div></a></div><div class="MenuItemContainer clearfix colelem100" id="u1335"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix" id="u1338" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel clearfix" id="u1340-4"><!-- content --><p>Contact Us</p></div></a></div></nav></div></div></li>
      </ul>
     </div>
-    <div class="browser_width colelem" id="u1313-14-bw">
-     <div class="clearfix" id="u1313-14"><!-- content -->
-      <p><span id="u1313">MOBILE SITE IS CLOSED</span></p>
-      <p><span id="u1313-3">FOR MAINTENANCE!</span></p>
-      <p>&nbsp;</p>
-      <p id="u1313-7"><span id="u1313-6">You can contact web-admin Keegan Bourque at:</span></p>
-      <p id="u1313-9"><span id="u1313-8">Email: Keegan@kryo.pro</span></p>
-      <p id="u1313-11"><span id="u1313-10">Call: (226) 984-9771</span></p>
-      <p>&nbsp;</p>
+    <div class="PamphletWidget clearfix colelem" id="pamphletu1487"><!-- none box -->
+     <div class="ThumbGroup clearfix grpelem" id="u1492"><!-- none box -->
+      <div class="popup_anchor">
+       <div class="Thumb popup_element" id="u1493"><!-- simple frame --></div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u1496popup">
+      <div class="ContainerGroup clearfix" id="u1496"><!-- stack box -->
+       <div class="Container grpelem" id="u1498"><!-- simple frame --></div>
+      </div>
+     </div>
+    </div>
+    <div class="browser_width colelem" id="u1502-8-bw">
+     <div class="clearfix" id="u1502-8"><!-- content -->
+      <p>There are currently no listed events. Contact us at info@andrewslegacyforever.com for any unlisted events!</p>
+      <p>Thanks,</p>
+      <p>Andrew's Legacy Team</p>
      </div>
     </div>
     <div class="verticalspacer"></div>
@@ -93,6 +101,9 @@ var __adobewebfontsappname__ = "muse";
   <script src="../scripts/jquery.watch.js?71412426" type="text/javascript"></script>
   <script src="../scripts/webpro.js?3803554875" type="text/javascript"></script>
   <script src="../scripts/musewpdisclosure.js?3993616448" type="text/javascript"></script>
+  <script src="../scripts/musewpslideshow.js?242596657" type="text/javascript"></script>
+  <script src="../scripts/jquery.museoverlay.js?493285861" type="text/javascript"></script>
+  <script src="../scripts/touchswipe.js?4038331989" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
@@ -104,6 +115,7 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.resizeHeight()/* resize height */
 Muse.Utils.initWidget('#accordionu1166', function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu1166 */
+Muse.Utils.initWidget('#pamphletu1487', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu1487 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
